@@ -1,0 +1,22 @@
+{
+  "name": "trek-utils",
+  "version": "0.0.1",
+  "description": "Trek utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utils",
+    "trek"
+  ],
+  "repository": "trekjs/utils.git",
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^0.8.2",
+    "jsonwebtoken": "^4.2.2",
+    "mz": "^1.3.0",
+    "thenify-all": "^1.6.0"
+  }
+}
