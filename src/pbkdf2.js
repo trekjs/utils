@@ -57,4 +57,6 @@ function hash(password, salt, iterations = 1024, keylen = 32, digest = 'sha256',
   });
 }
 
-export { genSalt, compare, hash };
+export {
+  genSalt, compare, hash
+};
