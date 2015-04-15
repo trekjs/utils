@@ -21,7 +21,7 @@
     "thenify-all": "^1.6.0"
   },
   "devDependencies": {
-    "babel": "^5.0.12"
+    "babel": "^5.1.9"
   },
   "files": [
     "LICENSE",
