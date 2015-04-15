@@ -16,7 +16,7 @@
 * compare
 * hash
 
-### jwt
-* bcrypt
-* pbkdf2
-* jwt
+### [jwt](https://github.com/auth0/node-jsonwebtoken)
+* sign
+* decode
+* verify
