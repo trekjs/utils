@@ -28,6 +28,9 @@
 * decode
 * verify
 
+## License
+
+  [MIT](LICENSE)
 
 [npm-img]: https://img.shields.io/npm/v/trek-utils.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/trek-utils
