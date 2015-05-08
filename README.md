@@ -39,7 +39,7 @@
 [travis-img]: https://img.shields.io/travis/trekjs/utils.svg?style=flat-square
 [travis-url]: https://travis-ci.org/trekjs/utils
 [coveralls-img]: https://img.shields.io/coveralls/trekjs/utils.svg?style=flat-square
-[coveralls-url]: https://coveralls.io/r/trekjs/utils
+[coveralls-url]: https://coveralls.io/r/trekjs/utils?branch=master
 [license-img]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
 [license-url]: LICENSE
 [david-img]: https://img.shields.io/david/trekjs/utils.svg?style=flat-square
