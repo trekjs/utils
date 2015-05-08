@@ -4,6 +4,7 @@
  * MIT Licensed
  */
 
+import slowEquals from 'slow-equals';
 import { pbkdf2 } from 'mz/crypto';
 import token from './token';
 
@@ -34,7 +35,7 @@ function genSalt(len = 16, encoding = 'hex') {
  */
 function compare(hashstr, password, salt, iterations = 1024, keylen = 32, digest = 'sha256', encoding = 'hex') {
   return hash(password, salt, iterations, keylen, digest, encoding).then((data) => {
-    return hashstr === data;
+    return slowEquals(hashstr, data);
   });
 }
 
