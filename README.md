@@ -11,6 +11,8 @@
 
 ## utils
 
+### token
+
 ### [bcrypt](https://github.com/ncb000gt/node.bcrypt.js)
 
 * genSalt
